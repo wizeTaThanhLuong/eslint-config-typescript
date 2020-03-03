@@ -1,0 +1,21 @@
+{
+  "name": "@luongtt/eslint-config-typescript",
+  "version": "0.1.0",
+  "private": false,
+  "description": "> ESLint config with TypeScript support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-wize:wizeTaThanhLuong/eslint-config-typescript.git"
+  },
+  "keywords": [
+    "eslint-config",
+    "eslint",
+    "typescript"
+  ],
+  "author": "luongtt",
+  "license": "MIT"
+}
